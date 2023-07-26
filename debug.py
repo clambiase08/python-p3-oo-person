@@ -1,4 +1,4 @@
-from lib.person.py import Person
+from lib.person import Person
 import ipdb
 
 ipdb.set_trace()
